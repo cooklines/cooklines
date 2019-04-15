@@ -335,13 +335,13 @@
  ul {list-style-type: none;}
  body a {text-decoration: none; display: inline-block;}
  a:hover,a:focus,a:visited {text-decoration: none; outline: none;}
- img {max-width: 100%; display: block;}
+ img {max-width: 700%; display: block;}
  button {border:none;outline: none;box-shadow: none;display: block; padding: 0;cursor: pointer;background: transparent;}
  button:focus {outline: none;}
  input,textarea {outline: none; box-shadow: none;transition: all 0.3s ease-in-out;}
 
  /*----------- Prefix -----------*/
-.full-width-container {padding-left: 60px;padding-right: 60px;}
+.full-width-container {padding-left: 60px;padding-right: 75px;}
 .demo-container-900 {max-width: 900px;margin: 0 auto;}
 .demo-container-1100 {max-width: 1100px;margin: 0 auto;}
 .p0 {padding: 0 !important;}
@@ -770,7 +770,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 .theme-menu-one.d-align-item .navbar-nav .nav-item.active .nav-link:before {width: 100%;}
 .theme-menu-one.d-align-item #mega-menu-holder {margin-right: 125px;}
 .theme-menu-one.d-align-item .header-right-widget {right: auto; left: 15%;}
-.theme-menu-one.d-align-item .logo {top:45px;left:75px;width: 63px;}
+.theme-menu-one.d-align-item .logo {top:10px;left:40px;width: 85px;padding: 19px 0;}
 .theme-menu-one.d-align-item .navbar-nav .login-button a {
   width: 150px;
   line-height: 50px;
@@ -902,7 +902,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   box-shadow: 0px 13px 35px -12px rgba(35,35,35,0.15);
   animation: menu_sticky  0.60s ease-in-out;
 }
-.theme-menu-one.d-align-item.fixed .logo {width: 63px;}
+.theme-menu-one.d-align-item.fixed .logo {width: 75px;}
 .theme-menu-one.fixed.d-align-item .logo {top:5px;}
 .theme-menu-one.fixed .navbar-nav .nav-item .nav-link,
 .theme-menu-two.fixed .navbar-nav .nav-item .nav-link {padding-bottom: 20px;}
@@ -1328,7 +1328,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 #theme-banner-four .main-wrapper .button-group .video-button:hover i {color: #f569f8;}
 /*---------------------- Theme Main Banne Five -----------------------*/
 #theme-banner-five {
-  background: linear-gradient( 145deg, rgb(132,0,252) 0%, rgb(17,222,244) 100%);
+  background: linear-gradient( 170deg, rgb(0,114,255) 0%, rgb(255,255,255) 75%);
   position: relative;
   z-index: 5;
 }
@@ -2281,7 +2281,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   transform: translateX(-50%);
   opacity: 0.04;
 }
-.sass-testimonial-section .inner-container {
+.theme-testimonial-section .inner-container {
   width: 69%;
   margin: 60px auto 0;
   position: relative;
