@@ -335,7 +335,7 @@
  ul {list-style-type: none;}
  body a {text-decoration: none; display: inline-block;}
  a:hover,a:focus,a:visited {text-decoration: none; outline: none;}
- img {max-width: 700%; display: block;}
+ img {max-width: 250%; display: block;}
  button {border:none;outline: none;box-shadow: none;display: block; padding: 0;cursor: pointer;background: transparent;}
  button:focus {outline: none;}
  input,textarea {outline: none; box-shadow: none;transition: all 0.3s ease-in-out;}
@@ -770,7 +770,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 .theme-menu-one.d-align-item .navbar-nav .nav-item.active .nav-link:before {width: 100%;}
 .theme-menu-one.d-align-item #mega-menu-holder {margin-right: 125px;}
 .theme-menu-one.d-align-item .header-right-widget {right: auto; left: 15%;}
-.theme-menu-one.d-align-item .logo {top:10px;left:40px;width: 85px;padding: 19px 0;}
+.theme-menu-one.d-align-item .logo {top:10px;left:75px;width: 85px;padding: 55px 0;}
 .theme-menu-one.d-align-item .navbar-nav .login-button a {
   width: 150px;
   line-height: 50px;
@@ -1328,7 +1328,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 #theme-banner-four .main-wrapper .button-group .video-button:hover i {color: #f569f8;}
 /*---------------------- Theme Main Banne Five -----------------------*/
 #theme-banner-five {
-  background: linear-gradient( 170deg, rgb(0,114,255) 0%, rgb(255,255,255) 75%);
+  background: linear-gradient( 145deg, rgb(247,151,30) 0%, rgb(255,210,0)   75%);
   position: relative;
   z-index: 5;
 }
@@ -8370,7 +8370,7 @@ Modal animation
 .shrt-menu.dark-bg .navbar .dropdown-menu,.shrt-menu.dark-bg .main-header .cart-action-wrapper .dropdown-menu {
   background: #222836;
   box-shadow: none;
-  border:1px solid #383f50;
+  border:1px solid #17acc6;
 }
 .shrt-menu.text-light .main-header .cart-action-wrapper .cart-product-list .item-info .name,
 .shrt-menu.text-light .main-header .cart-action-wrapper .cart-product-list .item-info .price,
