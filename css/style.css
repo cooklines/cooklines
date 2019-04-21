@@ -3177,8 +3177,8 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 }
 .our-service-app .main-content .single-block:nth-child(2) .illustration-box .block-shape-one {
   position: absolute;
-  top:120px;
-  left:26px;
+  top:-15px;
+  left:-26px;
   transform: scale(1.5);
 }
 .our-service-app .main-content .single-block:nth-child(2) .illustration-box .block-shape-two {
