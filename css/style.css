@@ -1033,7 +1033,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 }
 /*---------------------------- Theme Main Banner Two -------------------------*/
 #theme-banner-two {
-  background: linear-gradient( -120deg, rgb(135,88,255) 0%, rgb(97,78,249) 100%);
+  background: linear-gradient( -120deg, rgb(219,249,184) 0%, rgb(49,203,0) 100%);
   position: relative;
   overflow:hidden;
 }
