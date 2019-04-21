@@ -1328,7 +1328,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 #theme-banner-four .main-wrapper .button-group .video-button:hover i {color: #f569f8;}
 /*---------------------- Theme Main Banne Five -----------------------*/
 #theme-banner-five {
-  background: linear-gradient( 145deg, rgb(247,151,30) 0%, rgb(255,210,0)   75%);
+  background: linear-gradient( 145deg, rgb(255,210,0) 0%, rgb(275,58,30)   75%);
   position: relative;
   z-index: 5;
 }
