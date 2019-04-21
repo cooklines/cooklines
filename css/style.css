@@ -3122,7 +3122,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 /*----------------------- Our Service/APP ------------------------*/
 .our-service-app {
   position: relative;
-  padding: 260px 0 200px;
+  padding: 100px 0 75px;
   border-bottom: 1px solid #ededed;
 }
 .our-service-app .main-content {
