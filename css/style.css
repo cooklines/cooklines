@@ -3167,8 +3167,8 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 }
 .our-service-app .main-content .single-block:nth-child(1) .illustration-box .block-shape-three {
   position: absolute;
-  bottom: 24px;
-  right: 0;
+  bottom: 60px;
+  right: 23;
 }
 .our-service-app .main-content .single-block:nth-child(1) .illustration-box [class*="block-shape"] {transform: scale(1.5);}
 .our-service-app .main-content .single-block .illustration-box [class*="block-shape"] {
@@ -3177,8 +3177,8 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 }
 .our-service-app .main-content .single-block:nth-child(2) .illustration-box .block-shape-one {
   position: absolute;
-  top:-15px;
-  left:-26px;
+  top:120px;
+  left:26px;
   transform: scale(1.5);
 }
 .our-service-app .main-content .single-block:nth-child(2) .illustration-box .block-shape-two {
@@ -3189,8 +3189,8 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 }
 .our-service-app .main-content .single-block:nth-child(2) .illustration-box .block-shape-three {
   position: absolute;
-  top:66px;
-  right: 6px;
+  top:34px;
+  right: 31px;
   transform: scale(1.5);
 }
 .our-service-app .main-content .single-block:nth-child(2) .illustration-box .block-shape-four {
@@ -3206,8 +3206,8 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 .our-service-app .main-content.show-pr .single-block:nth-child(2) .illustration-box .block-shape-four {transform: translateY(0);}
 .our-service-app .main-content .single-block:nth-child(3) .illustration-box .block-shape-one {
   position: absolute;
-  top:7px;
-  left:45px;
+  top:18px;
+  left:28px;
   transform: scale(1.5);
 }
 .our-service-app .main-content.show-pr .single-block:nth-child(1) .illustration-box [class*="block-shape"],
