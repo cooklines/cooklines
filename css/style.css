@@ -3142,7 +3142,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   color: #4e4e4e;
   margin: 45px 0 30px;
 }
-.our-service-app .main-content .inner-wrapper:hover .title a {color: #2840F1;}
+.our-service-app .main-content .inner-wrapper:hover .title a {color: #FF3A46;}
 .our-service-app .main-content .inner-wrapper p {
   line-height: 30px;
   padding: 0 50px;
@@ -3232,15 +3232,15 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   width: 230px;
   line-height: 51px;
   border-radius: 30px;
-  background: #2840F1;
-  border: 2px solid #2840F1;
+  background: #FF3A46;
+  border: 2px solid #FF3A46;
   font-size: 14px;
   color: #fff;
   text-transform: uppercase;
   margin: 100px auto 0;
   text-align: center;
 }
-.our-service-app .main-content .more-button:hover {background: #fff;color:#614ef9; }
+.our-service-app .main-content .more-button:hover {background: #fff;color:#FF3A46; }
 .our-service-app .main-content .down-arrow {
   display: block;
   width: 60px;
@@ -6680,7 +6680,8 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   background: #fff;
   padding: 0;
   border-radius: 50%;
-  color: #222222;
+  color: #2222
+  22;
   font-size: 32px;
   margin: 0;
   position: absolute;
